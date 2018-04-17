@@ -3,6 +3,13 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
+Demo
+----
+Try Spree with direct deployment on Heroku:
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/harsh-ag/spree-favorite-products-demo/tree/master)
+
+
 Things you may want to cover:
 
 * Ruby version
@@ -22,3 +29,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
